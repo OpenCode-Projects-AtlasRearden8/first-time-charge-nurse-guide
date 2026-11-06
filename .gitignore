@@ -1,0 +1,15 @@
+# Editors
+# Generated output
+# OS noise
+# Python
+*.pyc
+*.swp
+.DS_Store
+.env
+.env.*
+.pytest_cache/
+.venv/
+Thumbs.db
+__pycache__/
+node_modules/
+site/
