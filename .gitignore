@@ -11,5 +11,6 @@
 .venv/
 Thumbs.db
 __pycache__/
+dist/*.tmp
 node_modules/
 site/
